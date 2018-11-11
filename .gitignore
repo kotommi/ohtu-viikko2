@@ -1,0 +1,7 @@
+.gradle/
+*~
+build/
+# emacs files
+\#*\#
+auto-save-list
+.\#*
